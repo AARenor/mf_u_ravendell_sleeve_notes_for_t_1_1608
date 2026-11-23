@@ -1,4 +1,4 @@
-A program that writes one short text for make.fun's bounty `u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5`.
+A program that writes one short text for make.fun's bounty `u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5`. It writes the sleeve notes to `entry.txt` and prints the character count.
 
 [![make.fun · u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5](https://make.fun/badge/u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5.svg)](https://make.fun/bounty/u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5)
 [![rank](https://make.fun/badge/u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5/AARenor/mf_u_ravendell_sleeve_notes_for_t_1_1608/rank.svg)](https://make.fun/bounty/u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5/leaderboard)
